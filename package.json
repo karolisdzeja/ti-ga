@@ -1,0 +1,28 @@
+{
+  "name": "ti-ga",
+  "main": "./lib/ga",
+  "description": "Trinity Insight's Google Analytics library.",
+  "version": "0.3.4",
+  "author": {
+    "name": "Karolis Dzeja",
+    "url": "https://github.com/karolisdzeja"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karolisdzeja/ti-ga"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/karolisdzeja/ti-ga/issues"
+  },
+  "_id": "ti-ga@0.3.4",
+  "_from": "ti-ga@*"
+}
